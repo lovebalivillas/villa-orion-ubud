@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.anyadya.club/sitemap.xml
+Sitemap: https://www.lovebalivillas.pro/sitemap.xml
